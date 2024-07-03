@@ -1,0 +1,3 @@
+[submodule "nextjs-dashboard/nextjs-dashboard/Clean"]
+	path = nextjs-dashboard/nextjs-dashboard/Clean
+	url = https://github.com/KatieHorton/Clean.git
